@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/mad/v3/app/src/main/res/drawable/comment_red.xml" value="0.26614583333333336" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/drawable/like_red.xml" value="0.16302083333333334" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/drawable/savedred.xml" value="0.26614583333333336" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/activity_club_info.xml" value="0.1897644927536232" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/activity_signup.xml" value="0.2463768115942029" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/activity_splashscreen.xml" value="0.1539855072463768" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/dashboard.xml" value="0.264" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/fragment_add.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/fragment_notification.xml" value="0.14685792349726776" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/fragment_profile.xml" value="0.2463768115942029" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/fragment_search.xml" value="0.14685792349726776" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/notification2_sample.xml" value="0.4" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/layout/story_degine.xml" value="0.8" />
+        <entry key="..\:/Study/mad/v3/app/src/main/res/menu/menu_profile.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
